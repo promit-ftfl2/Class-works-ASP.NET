@@ -1,0 +1,6 @@
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\bin\Debug\MultiplesOf3And5App1.exe.config
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\obj\Debug\MultiplesOf3And5App1.csprojResolveAssemblyReference.cache
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\bin\Debug\MultiplesOf3And5App1.exe
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\bin\Debug\MultiplesOf3And5App1.pdb
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\obj\Debug\MultiplesOf3And5App1.exe
+F:\promit\day2\MultiplesOf3And5App1\MultiplesOf3And5App1\obj\Debug\MultiplesOf3And5App1.pdb

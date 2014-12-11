@@ -1,0 +1,9 @@
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\bin\Debug\PythagoreanTripletApp.exe.config
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\obj\Debug\PythagoreanTripletApp.csprojResolveAssemblyReference.cache
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\bin\Debug\PythagoreanTripletApp.exe
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\bin\Debug\PythagoreanTripletApp.pdb
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\obj\Debug\PythagoreanTripletApp.exe
+F:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\obj\Debug\PythagoreanTripletApp.pdb
+J:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\bin\Debug\PythagoreanTripletApp.exe.config
+J:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\obj\Debug\PythagoreanTripletApp.exe
+J:\promit\day2 7.12.14\PythagoreanTripletApp\PythagoreanTripletApp\obj\Debug\PythagoreanTripletApp.pdb

@@ -1,0 +1,6 @@
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\bin\Debug\SumSquareDifApp.exe.config
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\obj\Debug\SumSquareDifApp.csprojResolveAssemblyReference.cache
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\bin\Debug\SumSquareDifApp.exe
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\bin\Debug\SumSquareDifApp.pdb
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\obj\Debug\SumSquareDifApp.exe
+F:\promit\day2 7.12.14\SumSquareDifApp\SumSquareDifApp\obj\Debug\SumSquareDifApp.pdb
