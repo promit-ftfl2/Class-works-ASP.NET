@@ -1,0 +1,12 @@
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\bin\Debug\PersonNameinArrayApp.exe.config
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.csprojResolveAssemblyReference.cache
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.Form1.resources
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.Properties.Resources.resources
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.csproj.GenerateResource.Cache
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\bin\Debug\PersonNameinArrayApp.exe
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\bin\Debug\PersonNameinArrayApp.pdb
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.exe
+E:\Promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.pdb
+J:\promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\bin\Debug\PersonNameinArrayApp.exe.config
+J:\promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.exe
+J:\promit\day4 12.12.14\PersonNameinArrayApp\PersonNameinArrayApp\obj\Debug\PersonNameinArrayApp.pdb

@@ -1,0 +1,9 @@
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\bin\Debug\TicketBuyApp.exe.config
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.csprojResolveAssemblyReference.cache
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.Form1.resources
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.Properties.Resources.resources
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.csproj.GenerateResource.Cache
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\bin\Debug\TicketBuyApp.exe
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\bin\Debug\TicketBuyApp.pdb
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.exe
+E:\Promit\day4 12.12.14\TicketBuyApp\TicketBuyApp\obj\Debug\TicketBuyApp.pdb

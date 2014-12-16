@@ -1,0 +1,9 @@
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\bin\Debug\PersonInArrayApp.exe.config
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\bin\Debug\PersonInArrayApp.exe
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\bin\Debug\PersonInArrayApp.pdb
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.csprojResolveAssemblyReference.cache
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.Form1.resources
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.Properties.Resources.resources
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.csproj.GenerateResource.Cache
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.exe
+D:\promit\home16.12.14\PersonInArrayApp\PersonInArrayApp\obj\Debug\PersonInArrayApp.pdb

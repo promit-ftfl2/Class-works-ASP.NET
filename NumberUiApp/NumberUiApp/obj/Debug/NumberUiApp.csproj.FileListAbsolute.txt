@@ -1,0 +1,8 @@
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\bin\Debug\NumberUiApp.exe.config
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\obj\Debug\NumberUiApp.Form1.resources
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\obj\Debug\NumberUiApp.Properties.Resources.resources
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\obj\Debug\NumberUiApp.csproj.GenerateResource.Cache
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\bin\Debug\NumberUiApp.exe
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\bin\Debug\NumberUiApp.pdb
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\obj\Debug\NumberUiApp.exe
+E:\Promit\day4 12.12.14\NumberUiApp\NumberUiApp\obj\Debug\NumberUiApp.pdb

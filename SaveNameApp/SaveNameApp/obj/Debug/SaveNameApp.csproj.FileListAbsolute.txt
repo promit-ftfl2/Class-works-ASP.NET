@@ -1,0 +1,9 @@
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.exe.config
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.exe
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.pdb
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.csprojResolveAssemblyReference.cache
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.Form1.resources
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.Properties.Resources.resources
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.csproj.GenerateResource.Cache
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.exe
+E:\Promit\day4 12.12.14\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.pdb
