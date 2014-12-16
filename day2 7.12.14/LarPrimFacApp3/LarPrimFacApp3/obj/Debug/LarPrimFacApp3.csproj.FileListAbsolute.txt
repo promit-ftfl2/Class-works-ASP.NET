@@ -1,0 +1,6 @@
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\bin\Debug\LarPrimFacApp3.exe.config
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\bin\Debug\LarPrimFacApp3.exe
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\bin\Debug\LarPrimFacApp3.pdb
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\obj\Debug\LarPrimFacApp3.csprojResolveAssemblyReference.cache
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\obj\Debug\LarPrimFacApp3.exe
+F:\promit\day2\LarPrimFacApp3\LarPrimFacApp3\obj\Debug\LarPrimFacApp3.pdb

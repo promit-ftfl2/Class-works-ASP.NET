@@ -1,0 +1,6 @@
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\bin\Debug\EvenFibNumApp2.exe.config
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\bin\Debug\EvenFibNumApp2.exe
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\bin\Debug\EvenFibNumApp2.pdb
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\obj\Debug\EvenFibNumApp2.csprojResolveAssemblyReference.cache
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\obj\Debug\EvenFibNumApp2.exe
+F:\promit\day2\EvenFibNumApp2\EvenFibNumApp2\obj\Debug\EvenFibNumApp2.pdb

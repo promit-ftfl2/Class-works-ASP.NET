@@ -1,0 +1,6 @@
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\bin\Debug\SumOfPrimeApp10.exe.config
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\obj\Debug\SumOfPrimeApp10.csprojResolveAssemblyReference.cache
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\bin\Debug\SumOfPrimeApp10.exe
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\bin\Debug\SumOfPrimeApp10.pdb
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\obj\Debug\SumOfPrimeApp10.exe
+F:\promit\day2 7.12.14\SumOfPrimeApp10\SumOfPrimeApp10\obj\Debug\SumOfPrimeApp10.pdb

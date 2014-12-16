@@ -1,0 +1,5 @@
+F:\promit\CountApp\CountApp\bin\Debug\CountApp.exe.config
+F:\promit\CountApp\CountApp\bin\Debug\CountApp.exe
+F:\promit\CountApp\CountApp\bin\Debug\CountApp.pdb
+F:\promit\CountApp\CountApp\obj\Debug\CountApp.exe
+F:\promit\CountApp\CountApp\obj\Debug\CountApp.pdb

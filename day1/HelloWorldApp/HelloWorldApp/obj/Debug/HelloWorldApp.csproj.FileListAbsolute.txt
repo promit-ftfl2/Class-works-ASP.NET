@@ -1,0 +1,6 @@
+F:\promit\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+F:\promit\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+F:\promit\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+F:\promit\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+F:\promit\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+F:\promit\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

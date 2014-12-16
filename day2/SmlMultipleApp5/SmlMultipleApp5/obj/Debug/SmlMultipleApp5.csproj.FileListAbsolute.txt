@@ -1,0 +1,5 @@
+F:\promit\day2 7.12.14\SmlMultipleApp5\SmlMultipleApp5\bin\Debug\SmlMultipleApp5.exe.config
+F:\promit\day2 7.12.14\SmlMultipleApp5\SmlMultipleApp5\bin\Debug\SmlMultipleApp5.exe
+F:\promit\day2 7.12.14\SmlMultipleApp5\SmlMultipleApp5\bin\Debug\SmlMultipleApp5.pdb
+F:\promit\day2 7.12.14\SmlMultipleApp5\SmlMultipleApp5\obj\Debug\SmlMultipleApp5.exe
+F:\promit\day2 7.12.14\SmlMultipleApp5\SmlMultipleApp5\obj\Debug\SmlMultipleApp5.pdb

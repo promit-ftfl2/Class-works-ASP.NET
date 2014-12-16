@@ -1,0 +1,6 @@
+F:\promit\CompareApp\CompareApp\bin\Debug\CompareApp.exe.config
+F:\promit\CompareApp\CompareApp\bin\Debug\CompareApp.exe
+F:\promit\CompareApp\CompareApp\bin\Debug\CompareApp.pdb
+F:\promit\CompareApp\CompareApp\obj\Debug\CompareApp.csprojResolveAssemblyReference.cache
+F:\promit\CompareApp\CompareApp\obj\Debug\CompareApp.exe
+F:\promit\CompareApp\CompareApp\obj\Debug\CompareApp.pdb

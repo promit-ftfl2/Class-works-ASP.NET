@@ -1,0 +1,9 @@
+G:\Practise\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.exe.config
+G:\Practise\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.exe
+G:\Practise\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.pdb
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.csprojResolveAssemblyReference.cache
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.Form1.resources
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.Properties.Resources.resources
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.csproj.GenerateResource.Cache
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.exe
+G:\Practise\BankInterestApp\BankInterestApp\obj\Debug\BankInterestApp.pdb

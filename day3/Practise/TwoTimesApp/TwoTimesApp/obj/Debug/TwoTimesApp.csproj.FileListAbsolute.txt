@@ -1,0 +1,9 @@
+G:\Practise\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.exe.config
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.csprojResolveAssemblyReference.cache
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.Form1.resources
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.Properties.Resources.resources
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.csproj.GenerateResource.Cache
+G:\Practise\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.exe
+G:\Practise\TwoTimesApp\TwoTimesApp\bin\Debug\TwoTimesApp.pdb
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.exe
+G:\Practise\TwoTimesApp\TwoTimesApp\obj\Debug\TwoTimesApp.pdb

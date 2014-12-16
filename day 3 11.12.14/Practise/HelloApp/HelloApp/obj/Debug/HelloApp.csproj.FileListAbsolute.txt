@@ -1,0 +1,6 @@
+G:\Practise\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+G:\Practise\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+G:\Practise\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+G:\Practise\HelloApp\HelloApp\obj\Debug\HelloApp.csprojResolveAssemblyReference.cache
+G:\Practise\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+G:\Practise\HelloApp\HelloApp\obj\Debug\HelloApp.pdb

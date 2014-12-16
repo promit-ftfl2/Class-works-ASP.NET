@@ -1,0 +1,6 @@
+F:\promit\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+F:\promit\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+F:\promit\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+F:\promit\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csprojResolveAssemblyReference.cache
+F:\promit\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+F:\promit\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb
